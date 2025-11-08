@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "ssh7524",
+      "name": "송승현",
+      "email": "ssh7524@gmail.com",
+      "phone": "010-7524-6206"
+    },
+    {
+      "id": "kimjimin183",
+      "name": "김지민",
+      "email": "jimin@gmail.com",
+      "phone": "010-5846-7886"
+    },
+    {
+      "id": "wjdgksmf",
+      "name": "정찬희",
+      "email": "wjdcksgml@daum.net",
+      "phone": "010-2909-6428"
+    },
+    {
+      "id": "kanye",
+      "name": "정성덕",
+      "email": "sungduck@gmail.com",
+      "phone": "010-6266-3651"
+    },
+    {
+      "id": "mckim",
+      "name": "김태용",
+      "email": "tdkty@gmail.com",
+      "phone": "010-7579-0584"
+    },
+    {
+      "id": "duckduck",
+      "name": "마재덕",
+      "email": "duckjax12@gmail.com",
+      "phone": "010-4473-3557"
+    },
+    {
+      "id": "king",
+      "name": "유현석",
+      "email": "yoo000@naver.com",
+      "phone": "010-4377-5126"
+    },
+    {
+      "id": "JJangkil",
+      "name": "임창일",
+      "email": "changlimm@hanmail.net",
+      "phone": "010-2869-3466"
+    },
+    {
+      "id": "bilib",
+      "name": "김필립",
+      "email": "lip1524@naver.com",
+      "phone": "010-6411-3071"
+    },
+    {
+      "id": "yekong",
+      "name": "안예준",
+      "email": "anye1004@naver.com",
+      "phone": "010-8963-6536"
+    }
+  ]
+}
